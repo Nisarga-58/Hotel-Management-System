@@ -6,4 +6,4 @@ Hotel Management system is a java project, here we can get the information about
 <img width="1293" alt="dashboard" src="https://github.com/Nisarga-58/Hotel-Management-System/assets/118206188/03ac945f-e770-4e46-b0a5-447571ae114f">
 
 #Admin
-<img width="584" alt="admin" src="https://github.com/Nisarga-58/Hotel-Management-System/assets/118206188/bc9e6f01-6b97-4f8d-ba4f-d0315eec6823">
+<img width="584" alt="admin" src="https://github.com/Nisarga-58/Hotel-Management-System/assets/118206188/59c3a6e2-4c20-4bf9-9973-7c7983cdcf4c">
